@@ -1,6 +1,6 @@
 ## no-scroll-listview-griview for Android Development
 
-Using these library files will remove the scrolling effect of `ListView` and `GridView`. You can then use these within `ScrollView` or MergeAdapters (CWAC) and it should work natively with the scroller provided by those views.
+Using these library files will remove the scrolling effect of `ListView` and `GridView`. You can then use these within `ScrollView` or MergeAdapter (CWAC) and it should work natively with the scroller provided by those views.
 
 Simply add .java files to your project and intialize them as following:
 
