@@ -7,6 +7,9 @@ Simply add .java files to your project and intialize them as following:
 ```
 NoScrollListView noScrollListView = findViewById(R.id.noScrollListView);
 NoScrollGridView noScrollGridView = findViewById(R.id.noScrollGridView);
+
+noScrollListView.setExpanded(true);
+noScrollGridView.setExpanded(true);
 ```
 
 In XML files:
